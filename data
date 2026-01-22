@@ -1,1 +1,6 @@
+To run the DDoS Attack Detection System, you must first download the required dataset.
 
+Recommended : Download CICDDoS2019 or CICIDS2017 (CSV version available).
+
+🔹 Dataset File Name:
+ddos_dataset.csv
